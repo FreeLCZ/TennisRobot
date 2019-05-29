@@ -337,7 +337,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F40_41xxx,USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>..\CORE;..\SYSTEM\delay;..\SYSTEM\sys;..\SYSTEM\usart;..\FWLIB\inc;..\USER;..\HARDWARE\PWM;..\HARDWARE\TOUCH;..\HARDWARE\ENCODER;..\HARDWARE\STEPCTRL;..\HARDWARE\TIMER;..\HARDWARE\PID;..\HARDWARE\STATE;..\HARDWARE\MATH;..\HARDWARE\USART;..\HARDWARE\USART6;..\HARDWARE\RECEIVER;..\HARDWARE\USRAT2</IncludePath>
+              <IncludePath>..\CORE;..\SYSTEM\delay;..\SYSTEM\sys;..\SYSTEM\usart;..\FWLIB\inc;..\USER;..\HARDWARE\PWM;..\HARDWARE\TOUCH;..\HARDWARE\ENCODER;..\HARDWARE\STEPCTRL;..\HARDWARE\TIMER;..\HARDWARE\PID;..\HARDWARE\STATE;..\HARDWARE\MATH;..\HARDWARE\USART;..\HARDWARE\USART6;..\HARDWARE\RECEIVER;..\HARDWARE\USRAT2;..\HARDWARE\TIM7;..\HARDWARE\MATHS</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -420,6 +420,16 @@
               <FileName>usart2.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\HARDWARE\USRAT2\usart2.c</FilePath>
+            </File>
+            <File>
+              <FileName>tim7.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\TIM7\tim7.c</FilePath>
+            </File>
+            <File>
+              <FileName>maths.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\MATHS\maths.c</FilePath>
             </File>
           </Files>
         </Group>

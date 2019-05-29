@@ -43,3 +43,5 @@
 ..\obj\pwm.o: ..\SYSTEM\usart\usart.h
 ..\obj\pwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\pwm.o: ..\HARDWARE\USRAT2\usart2.h
+..\obj\pwm.o: ..\HARDWARE\TIM7\tim7.h
+..\obj\pwm.o: ..\HARDWARE\MATHS\maths.h

@@ -6,6 +6,8 @@
 "..\obj\encoder.o"
 "..\obj\receiver.o"
 "..\obj\usart2.o"
+"..\obj\tim7.o"
+"..\obj\maths.o"
 "..\obj\delay.o"
 "..\obj\sys.o"
 "..\obj\usart.o"

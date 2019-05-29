@@ -43,4 +43,6 @@
 ..\obj\usart2.o: ..\SYSTEM\usart\usart.h
 ..\obj\usart2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\usart2.o: ..\HARDWARE\USRAT2\usart2.h
+..\obj\usart2.o: ..\HARDWARE\TIM7\tim7.h
+..\obj\usart2.o: ..\HARDWARE\MATHS\maths.h
 ..\obj\usart2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

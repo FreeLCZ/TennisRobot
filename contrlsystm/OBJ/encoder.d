@@ -43,3 +43,5 @@
 ..\obj\encoder.o: ..\SYSTEM\usart\usart.h
 ..\obj\encoder.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\encoder.o: ..\HARDWARE\USRAT2\usart2.h
+..\obj\encoder.o: ..\HARDWARE\TIM7\tim7.h
+..\obj\encoder.o: ..\HARDWARE\MATHS\maths.h

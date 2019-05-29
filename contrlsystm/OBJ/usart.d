@@ -43,4 +43,6 @@
 ..\obj\usart.o: ..\HARDWARE\RECEIVER\receiver.h
 ..\obj\usart.o: ..\SYSTEM\delay\delay.h
 ..\obj\usart.o: ..\HARDWARE\USRAT2\usart2.h
+..\obj\usart.o: ..\HARDWARE\TIM7\tim7.h
+..\obj\usart.o: ..\HARDWARE\MATHS\maths.h
 ..\obj\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

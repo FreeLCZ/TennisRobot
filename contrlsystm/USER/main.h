@@ -10,6 +10,8 @@
 #include "usart.h"
 
 #include "usart2.h"   //2019.5.23
+#include "tim7.h"     //2019.5.29
+#include "maths.h"    //2019.5.29
 
 
 //四路pwm占空比

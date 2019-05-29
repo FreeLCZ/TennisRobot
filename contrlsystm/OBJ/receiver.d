@@ -43,3 +43,5 @@
 ..\obj\receiver.o: ..\SYSTEM\usart\usart.h
 ..\obj\receiver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\receiver.o: ..\HARDWARE\USRAT2\usart2.h
+..\obj\receiver.o: ..\HARDWARE\TIM7\tim7.h
+..\obj\receiver.o: ..\HARDWARE\MATHS\maths.h
